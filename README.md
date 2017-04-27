@@ -9,7 +9,7 @@
 - [Hands-On Intro to Game Programming - CodePen](https://codepen.io/collection/AYGLJQ/): janzeteachesit; Based on the Text by Chris DeLeon Fifth Edition (2015-09-01)
 
 ___
-https://github.com/janzeteachesit/interphase1-aquaplane
-https://github.com/janzeteachesit/interphase1-hoops
-https://github.com/janzeteachesit/interphase1-8ballpool
-https://github.com/janzeteachesit/phaser-template
+- https://github.com/janzeteachesit/interphase1-aquaplane
+- https://github.com/janzeteachesit/interphase1-hoops
+- https://github.com/janzeteachesit/interphase1-8ballpool
+- https://github.com/janzeteachesit/phaser-template
